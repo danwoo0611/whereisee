@@ -1,9 +1,12 @@
 @media screen and (max-width: 900px) {
 
+	body {
+		background-color: lightyellow;
+	}
+
 	p {
-		background-color: lightblue;
-		font-size: 30px;
 		width: 300px;
+		font-size: 20px;
 	}
 }
 
@@ -67,7 +70,7 @@ h2 {
 	align-items: center;
 	position: absolute;
 	top: 200px;
-	left: 300px;
+	left: 100px;
 	background-color: lightpink;
 	width: 200px;
 	height: 200px;
